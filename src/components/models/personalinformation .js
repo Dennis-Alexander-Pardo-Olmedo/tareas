@@ -1,0 +1,5 @@
+export const CONNECTES ={
+    CONECTADO:'VERDE',
+    AUSENTE:'NARANJA',
+    DESCONECTADO:'ROJO'
+}
